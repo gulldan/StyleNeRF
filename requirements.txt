@@ -10,7 +10,7 @@ kornia==0.5.10
 lmdb==0.98
 lpips==0.1.4
 matplotlib==3.4.3
-numpy==1.21.2
+numpy==1.22.0
 hydra-core==1.1
 opencv_python_headless==4.5.1.48
 Pillow==9.0.1
