@@ -22,7 +22,7 @@ requests==2.26.0
 scipy==1.7.1
 submitit==1.1.5
 tensorboardX==2.5
-torch==1.7.1
+torch==1.13.1
 torchvision==0.8.2
 tqdm==4.62.2
 trimesh==3.9.8
