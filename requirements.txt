@@ -18,7 +18,7 @@ psutil==5.8.0
 PyMCubes==0.1.2
 PyOpenGL==3.1.6
 pyspng==0.1.0
-requests==2.26.0
+requests==2.31.0
 scipy==1.7.1
 submitit==1.1.5
 tensorboardX==2.5
